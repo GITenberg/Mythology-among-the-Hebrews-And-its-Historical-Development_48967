@@ -1,15 +1,21 @@
 _repo: Mythology-among-the-Hebrews-And-its-Historical-Development_48967
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Martineau, Russell
     gutenberg_agent_id: '45067'
     url: http://www.gutenberg.org/2009/agents/45067
+covers:
+- cover_type: archival
+  image_path: 48967-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldziher, Ignaz
     gutenberg_agent_id: '45066'
     url: http://www.gutenberg.org/2009/agents/45066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48967#Mythology-among-the-Hebrews-And-its-Historical-Development
 gutenberg_issued: '2015-05-15'
 gutenberg_type: Text
 identifiers:
